@@ -19,8 +19,8 @@ public class HeliController : MonoBehaviour
 
 	void Update ()
     {
-        //HandleKeyboardInput();
-        HandleTouchInput();
+        HandleKeyboardInput();
+        //HandleTouchInput();
 	}
 
     void HandleTouchInput()
